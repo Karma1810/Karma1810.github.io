@@ -148,9 +148,9 @@
 
 /* client section */
 
-#client-section{
+/*#client-section{
     /* height: 700px; */
-}#client-section::before{
+#client-section::before{
    content: "";
    position: absolute;
    /* background: url('../background.jpg'); */
